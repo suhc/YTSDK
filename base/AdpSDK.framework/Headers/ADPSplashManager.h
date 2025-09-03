@@ -1,31 +1,3 @@
-//
-//  ADPManager.h
-//  AdpDemo
-//
-//  Created by mac on 2025/2/21.
-//
-
-#import <Foundation/Foundation.h>
-#import <UIKit/UIKit.h>
-#import <AdpSDK/ADPSplashDelegate.h>
-
-NS_ASSUME_NONNULL_BEGIN
-
-
-@protocol ADPSplashDelegate;
-
-
-@interface ADPSplashManager : NSObject
-
-+ (instancetype)sharedInstance;
-
-
-- (void)loadADWithPlacementID:(NSString *)placement WithRootViewController:(UIViewController *)rootViewController WithDelegate:(id<ADPSplashDelegate>)delegate WithBottomView:(nullable UIView  *)bottomView;
-
-
-- (void)showSplashAdWithUIWindows:(UIWindow *)windows;
-
-
-@end
-
-NS_ASSUME_NONNULL_END
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7fc72d39eb0b8f9fb339366f6ae6fe39b4c16fe6aa002caad536abfcdc27a0b
+size 592

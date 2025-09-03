@@ -1,35 +1,3 @@
-//
-//  ADPNativeAdManager.h
-//  AdpDemo
-//
-//  Created by mac on 2025/3/13.
-//
-
-#import <Foundation/Foundation.h>
-#import <UIKit/UIKit.h>
-#import <AdpSDK/ADPNativeAdDelegate.h>
-
-
-NS_ASSUME_NONNULL_BEGIN
-
-@protocol ADPNativeAdDelegate;
-
-
-@interface ADPNativeAdManager : NSObject
-
-
-+ (instancetype)sharedInstance;
-
-
-- (void)loadNativeAdWithPlacementId:(NSString *)placementId WithAdSize:(CGSize)adSize WithDelegate:(id<ADPNativeAdDelegate>)delegate;
-
-
-
-
-- (UIView *)showNativeAdWithRootViewController:(UIViewController *)rootViewController;
-
-
-
-@end
-
-NS_ASSUME_NONNULL_END
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cca45d0051236866e88f8030892a263bc9618610e204f4db22047acc9915d2b
+size 570

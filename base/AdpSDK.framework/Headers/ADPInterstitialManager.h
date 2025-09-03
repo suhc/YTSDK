@@ -1,28 +1,3 @@
-//
-//  ADPInterstitialManager.h
-//  AdpDemo
-
-
-#import <Foundation/Foundation.h>
-#import <UIKit/UIKit.h>
-#import <AdpSDK/ADPInterstitialDelegate.h>
-
-NS_ASSUME_NONNULL_BEGIN
-
-@protocol ADPInterstitialDelegate;
-
-
-@interface ADPInterstitialManager : NSObject
-
-+ (instancetype)sharedInstance;
-
-- (void)loadInterstitialWithPlacementId:(NSString *)placementId WithDelegate:(id<ADPInterstitialDelegate>)delegate;
-
-
-- (void)showInterstitialWithRootViewController:(UIViewController *)rootViewController;
-
-
-
-@end
-
-NS_ASSUME_NONNULL_END
+version https://git-lfs.github.com/spec/v1
+oid sha256:7519ca570e9bd54a1c66d2a61e1be174c4a8ef30138ef1a60a523ec431594f79
+size 525

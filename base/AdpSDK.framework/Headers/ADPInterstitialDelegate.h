@@ -1,33 +1,3 @@
-//
-//  ADPInterstitialDelegate.h
-//  AdpDemo
-//
-//  Created by mac on 2025/3/4.
-//
-
-#import <Foundation/Foundation.h>
-
-@protocol ADPInterstitialDelegate <NSObject>
-
-
-/// 广告加载成功
-- (void)interstitialAdDidFinish;
-
-///  广告加载失败回调
-- (void)interstitialAdDidFaillError:(NSError *)error;
-
-/// 广告曝光
-- (void)interstitialAdDidVisible;
-
-/// 广告关闭
-- (void)interstitialAdClosed;
-
-/// 广告点击
-- (void)interstitialAdClicked;
-
-/// 广告点击跳过
-- (void)interstitialAdSkiped;
-
-
-
-@end
+version https://git-lfs.github.com/spec/v1
+oid sha256:de6ab9599b9d5db65c0071fcabc2c163a9542f9f92629b41d7c425b278f090f2
+size 518
