@@ -1,0 +1,6 @@
+framework module YTSDK {
+  umbrella header "YTSDK.h"
+  export *
+
+  module * { export * }
+}

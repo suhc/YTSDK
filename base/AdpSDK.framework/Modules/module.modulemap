@@ -1,6 +1,0 @@
-framework module AdpSDK {
-  umbrella header "AdpSDK.h"
-  export *
-
-  module * { export * }
-}
