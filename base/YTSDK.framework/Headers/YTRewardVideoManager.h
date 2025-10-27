@@ -9,12 +9,6 @@
 #import <UIKit/UIKit.h>
 #import <YTSDK/YTRewardVideoDelegate.h>
 
-extern NSString *const kATAdLoadingExtraMediaExtraKey;
-extern NSString *const kATAdLoadingExtraUserDataKeywordKey;
-extern NSString *const kATAdLoadingExtraUserIDKey;
-extern NSString *const kATAdLoadingExtraLocationKey;
-extern NSString *const kATAdLoadingExtraRewardNameKey;
-extern NSString *const kATAdLoadingExtraRewardAmountKey;
 
 
 @protocol YTRewardVideoDelegate;
