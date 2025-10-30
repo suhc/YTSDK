@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'YTSDK'
-  s.version      = '6.0.33'
+  s.version      = '6.1.35'
   s.summary      = 'adpsdk'
   s.homepage     = 'https://ddd.com'
   s.license      = 'MIT'
@@ -9,10 +9,6 @@ Pod::Spec.new do |s|
   s.source       = {:git => 'https://github.com/suhc/YTSDK.git', :tag => s.version}
   
   
-  s.dependency 'ToBid-iOS/GDTAdapter','4.0.3'
-  s.dependency 'ToBid-iOS/TouTiaoAdapter','4.0.3'
-  s.dependency 'ToBid-iOS/KSAdapter','4.0.3'
-  s.dependency 'ToBid-iOS/CSJMediationAdapter','4.0.3'
 
 
   # 设置默认只安装Core子模块
