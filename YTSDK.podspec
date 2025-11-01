@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'YTSDK'
-  s.version      = '6.1.35'
+  s.version      = '9.5.6'
   s.summary      = 'adpsdk'
   s.homepage     = 'https://ddd.com'
   s.license      = 'MIT'
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   
   # 核心子模块（必须的基础功能）
   s.subspec 'Core' do |core|
-    core.vendored_frameworks = 'base/YTSDK.framework'
+    core.vendored_frameworks = 'base/AdpSDK.framework'
      
     
      # .a 静态库文件

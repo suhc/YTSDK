@@ -1,14 +1,12 @@
 //
-//  YTSplashDelegate.h
-//  YTSDK
-//
-//  Created by co on 2025/7/10.
-//
+//  ADPSplashDelegate.h
+
 
 #import <Foundation/Foundation.h>
+#import <WindMillSDK/WindMillEnum.h>
 
 
-@protocol YTSplashDelegate <NSObject>
+@protocol ADPSplashDelegate <NSObject>
 
 /// 广告加载成功回调
 - (void)onSplashAdDidFinish;

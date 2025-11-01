@@ -1,13 +1,13 @@
 //
-//  YTNativeAdDelegate.h
-//  YTSDK
+//  ADPNativeAdDelegate.h
+//  AdpDemo
 //
-//  Created by co on 2025/7/10.
+//  Created by mac on 2025/3/13.
 //
 
 #import <Foundation/Foundation.h>
 
-@protocol YTNativeAdDelegate <NSObject>
+@protocol ADPNativeAdDelegate <NSObject>
 
 /// 广告加载成功
 - (void)nativeAdDidFinish;

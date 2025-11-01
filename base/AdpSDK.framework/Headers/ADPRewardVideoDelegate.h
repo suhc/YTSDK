@@ -1,13 +1,13 @@
 //
-//  YTRewardVideoDelegate.h
-//  YTSDK
+//  ADPRewardVideoDelegate.h
+//  AdpDemo
 //
-//  Created by co on 2025/7/10.
+//  Created by mac on 2025/3/7.
 //
 
 #import <Foundation/Foundation.h>
 
-@protocol YTRewardVideoDelegate <NSObject>
+@protocol ADPRewardVideoDelegate <NSObject>
 
 @required
 

@@ -1,13 +1,13 @@
 //
-//  YTInterstitialDelegate.h
-//  YTSDK
+//  ADPInterstitialDelegate.h
+//  AdpDemo
 //
-//  Created by co on 2025/7/10.
+//  Created by mac on 2025/3/4.
 //
 
 #import <Foundation/Foundation.h>
 
-@protocol YTInterstitialDelegate <NSObject>
+@protocol ADPInterstitialDelegate <NSObject>
 
 
 /// 广告加载成功
