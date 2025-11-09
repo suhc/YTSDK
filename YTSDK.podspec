@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'YTSDK'
-  s.version      = '30.0.1'
+  s.version      = '30.0.2'
   s.summary      = 'adpsdk'
   s.homepage     = 'https://ddd.com'
   s.license      = 'MIT'
@@ -21,7 +21,9 @@ core.vendored_frameworks = [
   'base/AnyThinkGDTAdapter.xcframework',
   'base/AnyThinkGromoreAdapter.xcframework',
   'base/AnyThinkKuaiShouAdapter.xcframework',
-  'base/AnyThinkTTAdapter_Mix.xcframework'
+  'base/AnyThinkTTAdapter_Mix.xcframework',
+  'base/OctToponAdapterSDK.xcframework',
+  'base/AnyThinkMSAdapter.xcframework'
 ]     
     
      # .a 静态库文件
