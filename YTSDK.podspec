@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'YTSDK'
-  s.version      = '20.0.5'
+  s.version      = '20.0.7'
   s.summary      = 'adpsdk'
   s.homepage     = 'https://ddd.com'
   s.license      = 'MIT'
