@@ -4,330 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>AnyThinkSDK.bundle/RedPacket.png</key>
-		<data>
-		6vemT1a82w+/oyue0YwN4yL8OAU=
-		</data>
-		<key>AnyThinkSDK.bundle/arrow_one.png</key>
-		<data>
-		6blhOoTOZNGk2+YsrJxABAl/y/0=
-		</data>
-		<key>AnyThinkSDK.bundle/arrow_three.png</key>
-		<data>
-		cmtX0Jej3CCbho+wxYY6Mb/GXfA=
-		</data>
-		<key>AnyThinkSDK.bundle/arrow_two.png</key>
-		<data>
-		Co9X3ocdg1r0jRx4QqmTSo/w/T0=
-		</data>
-		<key>AnyThinkSDK.bundle/at_arrow_direction@3x.png</key>
-		<data>
-		5vdCpj58AD4iqSbs2BC5eLiPNmo=
-		</data>
-		<key>AnyThinkSDK.bundle/at_bg_rectangle@3x.png</key>
-		<data>
-		tGVIH5b6e8Y3t6qhyP7UXJ0k8UM=
-		</data>
-		<key>AnyThinkSDK.bundle/at_bwh_spread@3x.png</key>
-		<data>
-		e5/B2X8MuVIasbgKNm6ndR13msc=
-		</data>
-		<key>AnyThinkSDK.bundle/at_chop_close@3x.png</key>
-		<data>
-		ttnA7H4LeDd3bmaiV1e3VUXD+Yg=
-		</data>
-		<key>AnyThinkSDK.bundle/at_chop_sword_cn@3x.png</key>
-		<data>
-		5WumnnHwOfg4y5/aUMXgIDEE19I=
-		</data>
-		<key>AnyThinkSDK.bundle/at_chop_sword_us@3x.png</key>
-		<data>
-		xIcPUap05aiUGbiIVPXxx6p9uO8=
-		</data>
-		<key>AnyThinkSDK.bundle/at_ctaMask.png</key>
-		<data>
-		JJlmnxhojtOFAQe8nwxgDPJUgB8=
-		</data>
-		<key>AnyThinkSDK.bundle/at_hand_new@3x.png</key>
-		<data>
-		4jQvrQ4jMNPvPn8ARxgeEEFu1CE=
-		</data>
-		<key>AnyThinkSDK.bundle/at_loading_ctr@3x.png</key>
-		<data>
-		aE6+9OIoh07mcd9WluNKiR9V56I=
-		</data>
-		<key>AnyThinkSDK.bundle/at_luckybag_arrow@3x.png</key>
-		<data>
-		x6rXsszLFhQdiGf+XWOuUCofrOg=
-		</data>
-		<key>AnyThinkSDK.bundle/at_luckybag_outline@3x.png</key>
-		<data>
-		I96yLE0G9CscQxudlBRk6w9EvAo=
-		</data>
-		<key>AnyThinkSDK.bundle/at_luckybag_spread@3x.png</key>
-		<data>
-		oTaSUaeCtmgKXmuVYKSmBtYB3Nc=
-		</data>
-		<key>AnyThinkSDK.bundle/at_mintegral_logo@3x.png</key>
-		<data>
-		Le7SXAK2fpm7AfGrDjBg+lEzhac=
-		</data>
-		<key>AnyThinkSDK.bundle/at_mt_logo@3x.png</key>
-		<data>
-		Le7SXAK2fpm7AfGrDjBg+lEzhac=
-		</data>
-		<key>AnyThinkSDK.bundle/at_native_banner_ad_logo.png</key>
-		<data>
-		owkAo/BD/KWNrYlEyIOEhG/JAf4=
-		</data>
-		<key>AnyThinkSDK.bundle/at_offer_adChosices_arrow@3x.png</key>
-		<data>
-		AG+N970jelWFyFDaPTy9yJIYx+I=
-		</data>
-		<key>AnyThinkSDK.bundle/at_offer_com_pop_cancel@3x.png</key>
-		<data>
-		RwSeiI0720EUjKHjOyelW1vFKgo=
-		</data>
-		<key>AnyThinkSDK.bundle/at_offer_com_vector@3x.png</key>
-		<data>
-		e2d75A1jOVvM43cXYcTZUM0rRCA=
-		</data>
-		<key>AnyThinkSDK.bundle/at_offer_logo_cn@3x.png</key>
-		<data>
-		XTDIuGcdIWD+BG3sl6CduVFlxwQ=
-		</data>
-		<key>AnyThinkSDK.bundle/at_offer_logo_us@3x.png</key>
-		<data>
-		PEF6eJxgpdSFWqU3SITO8ZU9WXE=
-		</data>
-		<key>AnyThinkSDK.bundle/at_pangle_ad.png</key>
-		<data>
-		eXG3ElHaNviWZwdKkfmZT6sqZgg=
-		</data>
-		<key>AnyThinkSDK.bundle/at_subtract.png</key>
-		<data>
-		bpTZ+Ng5n9V1buU8eDnAUGfOn5o=
-		</data>
-		<key>AnyThinkSDK.bundle/at_topon_ad_cn.png</key>
-		<data>
-		S6+Oa5m+ovFGzlmg4d7k3w1eZfk=
-		</data>
-		<key>AnyThinkSDK.bundle/at_topon_ad_en.png</key>
-		<data>
-		rG9OXogyovnEYvdSN+VLX5noaOo=
-		</data>
-		<key>AnyThinkSDK.bundle/at_topon_retry@3x.png</key>
-		<data>
-		sUkn30Pqndj4xPgedKCubNcnle0=
-		</data>
-		<key>AnyThinkSDK.bundle/at_topon_sdk_logo.png</key>
-		<data>
-		eEV7aKRKM1DH+Zia3VkGeEbMTYE=
-		</data>
-		<key>AnyThinkSDK.bundle/bottom_black_gradient@2x.png</key>
-		<data>
-		lrNHMPATJ/+DBGzgOQzzMCr0Jc4=
-		</data>
-		<key>AnyThinkSDK.bundle/bottom_semicircle.png</key>
-		<data>
-		40UPPN2Oz8GnM6eWH9DQOgB8LI8=
-		</data>
-		<key>AnyThinkSDK.bundle/endcard_skip_icon.png</key>
-		<data>
-		gcgpOT09s3Z1vjCI/ct+Zh4v+UY=
-		</data>
-		<key>AnyThinkSDK.bundle/endcard_withdraw_bg.png</key>
-		<data>
-		V8Veirn4nm4p1gZK48QVXPecjN0=
-		</data>
-		<key>AnyThinkSDK.bundle/endcard_withdraw_icon.png</key>
-		<data>
-		M+Om3ajBloZ+qgb/1T+ZIq76WTk=
-		</data>
-		<key>AnyThinkSDK.bundle/feedback_close@2x.png</key>
-		<data>
-		k/CpMHysYwZNwelDeqKlKDm39qA=
-		</data>
-		<key>AnyThinkSDK.bundle/feedback_image@2x.png</key>
-		<data>
-		4OCy2wjUnPg6QWWwAS50AHNoJpo=
-		</data>
-		<key>AnyThinkSDK.bundle/guide_icon_SwipeIcon@3x.png</key>
-		<data>
-		vRe0ByE88fMuE9471qUHzOz6+Hk=
-		</data>
-		<key>AnyThinkSDK.bundle/guide_icon_Swipefinger@3x.png</key>
-		<data>
-		sq16Vxdu35xCB/XXX5lSrKTlxa0=
-		</data>
-		<key>AnyThinkSDK.bundle/guide_icon_finger@3x.png</key>
-		<data>
-		WZEXN4LqU14vQzFM/pu17vnpab4=
-		</data>
-		<key>AnyThinkSDK.bundle/guide_icon_slider@3x.png</key>
-		<data>
-		6z/6QIRrgcEiIO1wSJbtrb9oeJY=
-		</data>
-		<key>AnyThinkSDK.bundle/icon_close.png</key>
-		<data>
-		px2YZQO5jHMRD54AQhcSw5ItKRY=
-		</data>
-		<key>AnyThinkSDK.bundle/icon_loading.png</key>
-		<data>
-		EgXOZutUepbG3u/raq52gX8uZr4=
-		</data>
-		<key>AnyThinkSDK.bundle/icon_refresh.png</key>
-		<data>
-		kwbQHSlo7gFhEgZGLwmup3xl9qk=
-		</data>
-		<key>AnyThinkSDK.bundle/icon_webview_close@3x.png</key>
-		<data>
-		xY/KtPLbO7hRJVkgC6X4kM3Talk=
-		</data>
-		<key>AnyThinkSDK.bundle/icon_webview_close_normal@3x.png</key>
-		<data>
-		MWOCTLVS5awwSCaW7gKLFTEg3Rg=
-		</data>
-		<key>AnyThinkSDK.bundle/icon_webview_goback@3x.png</key>
-		<data>
-		Scn2OkZ7gik0yB9HO1PVwtuixlA=
-		</data>
-		<key>AnyThinkSDK.bundle/icon_webview_goback_normal@3x.png</key>
-		<data>
-		UZ9T2e4kStgMo3Q1USRVCbpfKKA=
-		</data>
-		<key>AnyThinkSDK.bundle/invalid_close_icon@3x.png</key>
-		<data>
-		iJPNxaCqekyMA651LB9vDLuEZF0=
-		</data>
-		<key>AnyThinkSDK.bundle/native_banner_close@3x.png</key>
-		<data>
-		Ys8E2iP+MN3+Tqv16QmluaaiaV4=
-		</data>
-		<key>AnyThinkSDK.bundle/native_splash_semi_star@3x .png</key>
-		<data>
-		Yl4JWS+PWTvQnjVKMDqc7fWWl6Q=
-		</data>
-		<key>AnyThinkSDK.bundle/native_splash_share_tips@3x.png</key>
-		<data>
-		3sPGgefEk8tTTARFGDdAoeP9mZY=
-		</data>
-		<key>AnyThinkSDK.bundle/native_splash_share_tips_arrows@3x.png</key>
-		<data>
-		5ncnIs9tJCTA41gRhhTTiIAm41E=
-		</data>
-		<key>AnyThinkSDK.bundle/native_splash_star_off@3x.png</key>
-		<data>
-		ON9QiHAlb3K9iXdpJovf8PRFSv8=
-		</data>
-		<key>AnyThinkSDK.bundle/native_splash_star_on@3x.png</key>
-		<data>
-		9KhMDYRFNiHVgtl7xVu5t3Hkx04=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_redPacket_bottom_bg.png</key>
-		<data>
-		GIwo/VHZTfSTswcR7G3fBuDlqg8=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_redPacket_cn_open.png</key>
-		<data>
-		XqYcxe+uHgBpKgY3ffYtGZCkd7Y=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_redPacket_detail_bg.png</key>
-		<data>
-		7Je4shw4BnaE69So4fW98uAik4I=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_redPacket_detail_next.png</key>
-		<data>
-		V74f6ExHxgBCYZw367nfThsQl+o=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_redPacket_en_open.png</key>
-		<data>
-		ZTwYzPychyHepvRT/kSKjyyojCE=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_redPacket_img1.png</key>
-		<data>
-		DydUz9PJfpL8/lDDO8f7V6rV7xc=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_redPacket_img2.png</key>
-		<data>
-		bgJtJbgR+h6R3VetpIVOxYX76w0=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_redPacket_img3.png</key>
-		<data>
-		KQNMF0/LqrO3n6YReEj1v7QHzeM=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_redPacket_img4.png</key>
-		<data>
-		Mgt9cPPoHnVmzN5IE9cHk0LoMSY=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_redPacket_img5.png</key>
-		<data>
-		XbUYnou9uc5F26zlSLIh+PmwWIo=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_redPacket_img6.png</key>
-		<data>
-		hmga8HY8WIlCt10HnCxRpm7gR6w=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_reward_icon.png</key>
-		<data>
-		xytMmt3h8swt3WDr2Bx3GaFZ228=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_rock_image.png</key>
-		<data>
-		9NeunYZzQ6hLXRl4FIqovbWWlvI=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_rv_reward_gift@3x.png</key>
-		<data>
-		p9IY/MwajUOcvSV+iwnmZcHwrp4=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_rv_rewarded@3x.png</key>
-		<data>
-		L5AXBhGlpcFK1R+RghWcYZ8nAoc=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_video_close.png</key>
-		<data>
-		agorqn/CDB6q/od7oekSEEcPwAg=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_video_pause@3x.png</key>
-		<data>
-		hUZsN3aIg4VsqbVcl7hsbnFyC/4=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_video_playfail@3x.png</key>
-		<data>
-		PF1xhj2bAJ+iwG6Kp4DqF7nQFvY=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_video_replay@3x.png</key>
-		<data>
-		xhXOIFBPbEYARYuOkfHOp98X5QE=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_voice_muted.png</key>
-		<data>
-		a9eZdyaN7I8iMUxFLWOXKvGf2Ek=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_voice_unmuted.png</key>
-		<data>
-		yhFxwFzzGbq1dNQgR1VFNuq6C2k=
-		</data>
-		<key>AnyThinkSDK.bundle/rv_webview_arrows@3x.png</key>
-		<data>
-		eUe8rgCN+zIzOYjwlq9G7pQSjqE=
-		</data>
-		<key>AnyThinkSDK.bundle/splash_cta_btn_bg.png</key>
-		<data>
-		Jd9wSWRfpedjHyPgMwrDUNF+m/M=
-		</data>
-		<key>AnyThinkSDK.bundle/zh-Hans.lproj/ATOfferFeedBackView.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VCXTPuvQEr0rGCTqeZ7B6nEMt6c=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>CSJAdSDK.bundle/Info.plist</key>
 		<data>
-		VwMrlA8mtpDyRgQal6Po+WPvsI0=
+		L5Yr5aHR65dbsyDjs6DTvQACLao=
 		</data>
 		<key>CSJAdSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -710,7 +389,7 @@
 		</data>
 		<key>CSJAdSDK.bundle/version.txt</key>
 		<data>
-		tRNotwZTHRmi5UYiQHkpWm1zwUc=
+		4F5+imtvUTYEPn2z3kNc6aShyAg=
 		</data>
 		<key>CSJAdSDK.bundle/zh-Hans.lproj/BULanguage.strings</key>
 		<dict>
@@ -768,7 +447,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wy4FXueLTejXnbXAfh02T9ggaCw=
+		LB4qIJaVPRwjJ9MelIooGs5ZGGI=
 		</data>
 		<key>MSAdSDK.bundle/Info.plist</key>
 		<data>
@@ -806,9 +485,25 @@
 		<data>
 		vB8g9TAFIXnJ7lavN6uZG2RFQWc=
 		</data>
+		<key>MSAdSDK.bundle/icon_defalt.png</key>
+		<data>
+		Xcwhtrb4Q1w3QVX/ptyNTWkk2LI=
+		</data>
+		<key>MSAdSDK.bundle/ms_actionButton.png</key>
+		<data>
+		CUdV/JsTI0KkDbwjbRSS5WeNdxM=
+		</data>
+		<key>MSAdSDK.bundle/ms_ad.png</key>
+		<data>
+		/zDI7DPXDVGGBJdUQhFFoc15vow=
+		</data>
 		<key>MSAdSDK.bundle/ms_ad@2x.png</key>
 		<data>
 		uWuF+9g/GA+OAFmGABsK/wUBto4=
+		</data>
+		<key>MSAdSDK.bundle/ms_ad_rock.png</key>
+		<data>
+		GEqlMCVrUBxjCSXrzZnOV7BdB2U=
 		</data>
 		<key>MSAdSDK.bundle/ms_back@3x.png</key>
 		<data>
@@ -837,6 +532,14 @@
 		<key>MSAdSDK.bundle/ms_video_back@3x.png</key>
 		<data>
 		gLNMmmGi15jxWF05oqYO8r9yhLI=
+		</data>
+		<key>MSAdSDK.bundle/net_ad@2x.png</key>
+		<data>
+		u3/ZmV9Yk5MzEmUbU0kQZ1EWnoQ=
+		</data>
+		<key>MSAdSDK.bundle/newTempRock.png</key>
+		<data>
+		JRhFSL9FudzReGtWfc8DHhlJMvQ=
 		</data>
 		<key>MSAdSDK.bundle/rockBtn.png</key>
 		<data>
@@ -880,7 +583,7 @@
 		</data>
 		<key>OctAdSDK.bundle/Info.plist</key>
 		<data>
-		Cezz01p0pBf8HFEFgVk0hSmsL+o=
+		cuE8jUTxhfKKSItfvx9hmFBXilE=
 		</data>
 		<key>OctAdSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -908,7 +611,7 @@
 		</data>
 		<key>OctCore.bundle/Info.plist</key>
 		<data>
-		VX9ECvZLrgjOeKwQh52lfm42VAg=
+		1x5ZXQKRf6CG/3CnUuHbSVRyO84=
 		</data>
 		<key>OctCore.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
@@ -929,6 +632,10 @@
 		<key>OctCore.bundle/_CodeSignature/CodeSignature</key>
 		<data>
 		Xz1idCw7pNgBcIWyZJR8+Hj/7/c=
+		</data>
+		<key>OctCore.bundle/baidu_pan.png</key>
+		<data>
+		JfzIEWqt0LMIs6JusWRWxrZ44BI=
 		</data>
 		<key>OctCore.bundle/icon_alert_click.png</key>
 		<data>
@@ -960,7 +667,7 @@
 		</data>
 		<key>OctCore.bundle/octlogo.png</key>
 		<data>
-		loe9PmO7hPQsrcxudqANHOUbkgk=
+		BK97CrjaB04Zwi3Swys4vM4xdqY=
 		</data>
 		<key>OctCore.bundle/remdad.png</key>
 		<data>
@@ -972,15 +679,15 @@
 		</data>
 		<key>SmartdigimktSDK.bundle/arrow_one.png</key>
 		<data>
-		6blhOoTOZNGk2+YsrJxABAl/y/0=
+		7ZOQ5/jInTDQOszQy/L5aIVhYxA=
 		</data>
 		<key>SmartdigimktSDK.bundle/arrow_three.png</key>
 		<data>
-		cmtX0Jej3CCbho+wxYY6Mb/GXfA=
+		cE6qWsOakPK0XX0j0UazHaZDu5U=
 		</data>
 		<key>SmartdigimktSDK.bundle/arrow_two.png</key>
 		<data>
-		Co9X3ocdg1r0jRx4QqmTSo/w/T0=
+		1YSTvyXlMxmQRKtOxQmfODIAUHM=
 		</data>
 		<key>SmartdigimktSDK.bundle/bottom_black_gradient@2x.png</key>
 		<data>
@@ -988,7 +695,7 @@
 		</data>
 		<key>SmartdigimktSDK.bundle/bottom_semicircle.png</key>
 		<data>
-		40UPPN2Oz8GnM6eWH9DQOgB8LI8=
+		vdD1cj9iYdM60t5gqWqpxJK+p70=
 		</data>
 		<key>SmartdigimktSDK.bundle/endcard_skip_icon.png</key>
 		<data>
@@ -1024,7 +731,7 @@
 		</data>
 		<key>SmartdigimktSDK.bundle/guide_icon_slider@3x.png</key>
 		<data>
-		6z/6QIRrgcEiIO1wSJbtrb9oeJY=
+		KMOwH4pHSs3JIBY/Q1i9yFb8rfQ=
 		</data>
 		<key>SmartdigimktSDK.bundle/icon_close.png</key>
 		<data>
@@ -1084,7 +791,7 @@
 		</data>
 		<key>SmartdigimktSDK.bundle/offer_redPacket_bottom_bg.png</key>
 		<data>
-		GIwo/VHZTfSTswcR7G3fBuDlqg8=
+		Liyv4tJNcFBKgdx8BzWRj3VuOo0=
 		</data>
 		<key>SmartdigimktSDK.bundle/offer_redPacket_cn_open.png</key>
 		<data>
@@ -1092,7 +799,7 @@
 		</data>
 		<key>SmartdigimktSDK.bundle/offer_redPacket_detail_bg.png</key>
 		<data>
-		7Je4shw4BnaE69So4fW98uAik4I=
+		aTSJC2AF0N5mm/q839bsn7jgYx4=
 		</data>
 		<key>SmartdigimktSDK.bundle/offer_redPacket_detail_next.png</key>
 		<data>
@@ -1132,15 +839,15 @@
 		</data>
 		<key>SmartdigimktSDK.bundle/offer_rock_image.png</key>
 		<data>
-		9NeunYZzQ6hLXRl4FIqovbWWlvI=
+		i283zmy+nxv235zymCfbU03C2dc=
 		</data>
 		<key>SmartdigimktSDK.bundle/offer_rv_reward_gift@3x.png</key>
 		<data>
-		p9IY/MwajUOcvSV+iwnmZcHwrp4=
+		byUV84sV/5IxjyuTPRUgQ9H3crg=
 		</data>
 		<key>SmartdigimktSDK.bundle/offer_rv_rewarded@3x.png</key>
 		<data>
-		L5AXBhGlpcFK1R+RghWcYZ8nAoc=
+		o+Y3oCQdDTfOuEPclm4ueg9boIY=
 		</data>
 		<key>SmartdigimktSDK.bundle/offer_video_close.png</key>
 		<data>
@@ -1172,7 +879,7 @@
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_arrow_direction@3x.png</key>
 		<data>
-		5vdCpj58AD4iqSbs2BC5eLiPNmo=
+		Jlf1dg/mta3hjtl+64jLmnBn93Y=
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_bg_rectangle@3x.png</key>
 		<data>
@@ -1180,11 +887,11 @@
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_bwh_spread@3x.png</key>
 		<data>
-		e5/B2X8MuVIasbgKNm6ndR13msc=
+		wxF6nYQMxlVWhs5p32VSo5bAcDs=
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_chop_close@3x.png</key>
 		<data>
-		ttnA7H4LeDd3bmaiV1e3VUXD+Yg=
+		qiXfv8F4McGrITGcZfnqhfIAqvE=
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_chop_sword_cn@3x.png</key>
 		<data>
@@ -1200,7 +907,35 @@
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_hand_new@3x.png</key>
 		<data>
-		4jQvrQ4jMNPvPn8ARxgeEEFu1CE=
+		eUWGKpVEDUthJYtx7TCk48iPv7M=
+		</data>
+		<key>SmartdigimktSDK.bundle/sdm_interaction_arrow@3x.png</key>
+		<data>
+		a2oiAnwkioHfrmcrfdI94YyAQOI=
+		</data>
+		<key>SmartdigimktSDK.bundle/sdm_interaction_arrow_up@3x.png</key>
+		<data>
+		OiFHEbUw3qahJPzGHTGWdds5C3A=
+		</data>
+		<key>SmartdigimktSDK.bundle/sdm_interaction_gesture@3x.png</key>
+		<data>
+		ho+IbRYlTQroYhORgzaaUyZfBs8=
+		</data>
+		<key>SmartdigimktSDK.bundle/sdm_interaction_redpackage_v2@3x.png</key>
+		<data>
+		7Ppx/9KUy3Rw6Rze3O7/fEn67Lk=
+		</data>
+		<key>SmartdigimktSDK.bundle/sdm_interaction_twist_icon@3x.png</key>
+		<data>
+		bKaF4c0fRKuMrv0DtlwgEepXxhc=
+		</data>
+		<key>SmartdigimktSDK.bundle/sdm_interaction_twist_left_arrow@3x.png</key>
+		<data>
+		GImorJj6L1fNL3sU2vShx5KLi1w=
+		</data>
+		<key>SmartdigimktSDK.bundle/sdm_interaction_twist_right_arrow@3x.png</key>
+		<data>
+		1La7bG7OvGUyxvUYXOUL5slxSFw=
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_loading_ctr@3x.png</key>
 		<data>
@@ -1208,15 +943,15 @@
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_luckybag_arrow@3x.png</key>
 		<data>
-		x6rXsszLFhQdiGf+XWOuUCofrOg=
+		RsjpEhOkl1M+am/60YWXrg4s9+8=
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_luckybag_outline@3x.png</key>
 		<data>
-		I96yLE0G9CscQxudlBRk6w9EvAo=
+		HlFg0Quo0IQ+jLqjVFRdz9ZIxkM=
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_luckybag_spread@3x.png</key>
 		<data>
-		oTaSUaeCtmgKXmuVYKSmBtYB3Nc=
+		wadqbMR+9ku916bIZDbpZ0WQrls=
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_mintegral_logo@3x.png</key>
 		<data>
@@ -1224,7 +959,7 @@
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_mt_logo@3x.png</key>
 		<data>
-		Le7SXAK2fpm7AfGrDjBg+lEzhac=
+		bnA7I9vObhE1I2ngLHuySNAwhWo=
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_native_banner_ad_logo.png</key>
 		<data>
@@ -1232,27 +967,35 @@
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_offer_adChosices_arrow@3x.png</key>
 		<data>
-		AG+N970jelWFyFDaPTy9yJIYx+I=
+		LHSx7uVDHpHaGZIQ2efENsLElf0=
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_offer_com_pop_cancel@3x.png</key>
 		<data>
-		RwSeiI0720EUjKHjOyelW1vFKgo=
+		CbP5iIPjwH3QVzUIPgYHymkQyMY=
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_offer_com_vector@3x.png</key>
 		<data>
-		e2d75A1jOVvM43cXYcTZUM0rRCA=
+		Fr76ifwJ++QeDRY63TbSlIrZUx0=
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_offer_logo_cn@3x.png</key>
 		<data>
-		XTDIuGcdIWD+BG3sl6CduVFlxwQ=
+		Q1ntE+RgWZGwe9Ug/MQ4B9k1aKs=
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_offer_logo_us@3x.png</key>
 		<data>
-		PEF6eJxgpdSFWqU3SITO8ZU9WXE=
+		EU1hQDneQqUojZqvPQx8MXy+8Mg=
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_pangle_ad.png</key>
 		<data>
 		eXG3ElHaNviWZwdKkfmZT6sqZgg=
+		</data>
+		<key>SmartdigimktSDK.bundle/sdm_smartdigimkt_retry@3x.png</key>
+		<data>
+		Kgf/qjcoY78WMx8HmdXnKyvPzuQ=
+		</data>
+		<key>SmartdigimktSDK.bundle/sdm_smartdigimkt_sdk_logo.png</key>
+		<data>
+		eEV7aKRKM1DH+Zia3VkGeEbMTYE=
 		</data>
 		<key>SmartdigimktSDK.bundle/sdm_subtract.png</key>
 		<data>
@@ -1335,6 +1078,14 @@
 		<data>
 		e8/EpA6DGa/5Wt0c/og+tiEZP78=
 		</data>
+		<key>baidumobadsdk.bundle/bd_feed_magnetic_sticker_middle.png</key>
+		<data>
+		hFn9vy1qKbaXc97/6S7meWR2cyI=
+		</data>
+		<key>baidumobadsdk.bundle/bd_feed_magnetic_sticker_right.png</key>
+		<data>
+		IL233e8Ut5dBIQTPmuKPkqdDnEo=
+		</data>
 		<key>baidumobadsdk.bundle/bd_int_envel_slide.png</key>
 		<data>
 		D+edaaiJsG6HBugC7jWo0LOEm34=
@@ -1411,6 +1162,10 @@
 		<data>
 		ojlp46V+2F7mpGXycuSIpe7LoOo=
 		</data>
+		<key>baidumobadsdk.bundle/bd_mob_ad_bookmard_line.png</key>
+		<data>
+		1QmNoK5fdYosHPvM3Piy9GWBq/A=
+		</data>
 		<key>baidumobadsdk.bundle/bd_mob_ad_bqtlogo.png</key>
 		<data>
 		vCdOP68Gf6xVdSCkt/3HWeyg5AY=
@@ -1451,6 +1206,10 @@
 		<data>
 		pDeMjA6q1rgSeMynZfHNo68DzLM=
 		</data>
+		<key>baidumobadsdk.bundle/bd_mob_gift_notice_bar_bg.png</key>
+		<data>
+		aE/EqqYGFkXKB95IpSnWXLlyZcw=
+		</data>
 		<key>baidumobadsdk.bundle/bd_mob_replay.png</key>
 		<data>
 		G9jzEfQEXHEjPIbED5CtQUuyItc=
@@ -1458,6 +1217,10 @@
 		<key>baidumobadsdk.bundle/bd_mob_star.png</key>
 		<data>
 		5aU9RobG3nuLIvzjyr3+hKHi/e0=
+		</data>
+		<key>baidumobadsdk.bundle/bd_mob_tpl_discount_bg.png</key>
+		<data>
+		xW0QYgRXYrZwzQRu9Hc9cwr+da0=
 		</data>
 		<key>baidumobadsdk.bundle/bd_mob_transparent_adlogo.png</key>
 		<data>
@@ -1575,6 +1338,38 @@
 		<data>
 		dxQUCDnjRxqATL928CRz9ltvdqo=
 		</data>
+		<key>baidumobadsdk.bundle/bd_splash_def.png</key>
+		<data>
+		ZQSPRfTq9SoMWcuWpDnp5SJG2FM=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_dm_ani_coupon.png</key>
+		<data>
+		gHUX6uWzP3cE6u0b1Nt20Wxm+0g=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_dm_ani_left.png</key>
+		<data>
+		H4YJUu2UkdJbA0mqJJMPKKuz1T4=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_dm_ani_right.png</key>
+		<data>
+		rLnGdW5KgO4BmxNx/iCBBdru71U=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_dm_ani_white.png</key>
+		<data>
+		V/vP7zI78HFCuTt+4FCXBYkBhgo=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_dm_coupon.png</key>
+		<data>
+		ekRIvAL+D5taA3AfntQKZ9+z2fU=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_dm_coupon_bottom.png</key>
+		<data>
+		WX+3MzLOjIhmIbDY4SvURT2yAz0=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_dm_coupon_top.png</key>
+		<data>
+		cWkOePEabgdWWfKvm8I58wsMKLI=
+		</data>
 		<key>baidumobadsdk.bundle/bd_splash_e_commerce_bg.png</key>
 		<data>
 		ui3YAOq/Tri+TP8tilCxRMRDWTE=
@@ -1587,9 +1382,21 @@
 		<data>
 		eUZUBDJp9Ejrr9nC+xTGWINWEww=
 		</data>
+		<key>baidumobadsdk.bundle/bd_splash_enter_guide_arrow.png</key>
+		<data>
+		AcXRZNO/0W/pvwdBeE2/vcMuK4I=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_enter_guide_icon.png</key>
+		<data>
+		8Mq+tptNnVZW8vsgKGrSALKO5ic=
+		</data>
 		<key>baidumobadsdk.bundle/bd_splash_focus.png</key>
 		<data>
 		aNFBuS7V4C9TpmN8cZxhvtWE8v8=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_gift_notice_bar.png</key>
+		<data>
+		zoOMsCPZoxrdhp2kwI/A5lLZ64M=
 		</data>
 		<key>baidumobadsdk.bundle/bd_splash_market_bg.json</key>
 		<data>
@@ -1654,566 +1461,11 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>AnyThinkSDK.bundle/RedPacket.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QHKAyytAq7Y91aaXNtVcC05RFuyGYtCMA/QiTXtwKqo=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/arrow_one.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bfM2PEke4xn5wnenlZRfpfW5ql9MBmzv3tYnAUJmgJU=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/arrow_three.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lzjjxOH5jCBRqQ/17WjXrzwj05iB7PHOG0ufhPI1FIU=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/arrow_two.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XHIFdjNsIkN9YO45m/qTRl6Ty1umoRMbmEPSHqcZT1o=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_arrow_direction@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Oa7bGzIqANBahGCeuLGsjwuZFNQpZbTeKQARFaQGD9M=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_bg_rectangle@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5AbfBNNC0iFXTqbAVRAKKFmbwQ5s3bMvG6hcHJEHTOY=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_bwh_spread@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			R9XsjMY4n5n1ooXaO1RdDYPFM/4fcND+/yOpk/8mZAU=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_chop_close@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rq2Yj9OYvooTO1AGockcV18EPGVtfSPkystFXHFTOU0=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_chop_sword_cn@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Yu3o0gkibmSAHNQMkhJI+QiUN7zEdBA39mAMVPzpSgc=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_chop_sword_us@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lyrlzImbQaBtf5cKeRU/UDh5tOEdxQrkAFKVb8sJZV0=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_ctaMask.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			033nPkcAPCDjtttw0XupXPr64uKQpfnRb0GT70Pd+nU=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_hand_new@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			w9cYjiGcPsDD3xtKOVS1VFNyLfjXhCKjno26RaJyNzU=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_loading_ctr@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EN2U0dK96nCdRnmXeLcMu/ZeQAf30uIRWk21+qyhIcc=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_luckybag_arrow@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vCKZUI54XyrPjsx6stkFto5kxHd+9kQjM1L6MJXSLGM=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_luckybag_outline@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Dabhxq6KTY+fCp8UUyiKwmu/sZXpJgEDYwS4j+Xq+do=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_luckybag_spread@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZDcUHHcgW5+HGnt/JaTKgo2vOSF+tLupTFyQWqi9Wzg=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_mintegral_logo@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8wHTl7Wt2JsN6XaPtceKWSDd5CY7vuNY/3LEL8c9gog=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_mt_logo@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8wHTl7Wt2JsN6XaPtceKWSDd5CY7vuNY/3LEL8c9gog=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_native_banner_ad_logo.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WCrnHtOf9eOnV6aU1KaUeJxKGPhGxoeTZKW6WO/w4Cc=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_offer_adChosices_arrow@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			D4GO2JJdQVYdrdnlxgObRLoPHL6RDkfFiRmxEQZOGiE=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_offer_com_pop_cancel@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OFyurOIOuxhGFq1kS6Y/vsCVCAzuj3hLCuWF5lYs5YM=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_offer_com_vector@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QP4zYXUVNrQJqwiPmjb1XAwOixxeDUN8t01XE18Bd54=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_offer_logo_cn@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vSrnTxhx4EMh3JhnsxpHzAdaHiiZoGeGxcyNzr9gL3Y=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_offer_logo_us@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gZMR3gGe/kChSn/C8frTjdY+H3/OJNsh7jGWDzeYNmA=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_pangle_ad.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eJufpExGrl4gUzkGiUKjbVap8AYVSJciFGoPD2joiWc=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_subtract.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6FPzIZ1AY9/HBfeWIwxV+cgb5yU/hYzYS7B3dPT/JCA=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_topon_ad_cn.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AREVtOEKDaXqM4yeq85692YodHqmiDPkMSlKzgla16Q=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_topon_ad_en.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TJi5oL5UH5O++/JxxGUVhez2nrJtvwuZqDOJ62BoQ00=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_topon_retry@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5DmQwwzrK268OUGz39hRjbege5LChcaFXQtNRbgEg8w=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/at_topon_sdk_logo.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			n4ee7LF1jD/yefgejnro7TfH5Nkf+sYJUmMerYFwytw=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/bottom_black_gradient@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+tWVzXFxoE8xsBL2QqwaOtAU7YKKiZgz3QnfkqnppNA=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/bottom_semicircle.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9vY2+XxRXpdw6E872v37SiRNrzFNpTIy6vu1BA0Lg8c=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/endcard_skip_icon.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QA4uAMroexSbphT+MXN97u44BF20Y8SGSLhdrbwMSYU=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/endcard_withdraw_bg.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UpyghhOcpaXJfBSgI15h3xYo1yAxeiJZZuBvBc5Glww=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/endcard_withdraw_icon.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Y6FBypuBDBTndM6VGTSzBTfOjy7CtSBtAn2VaqQNBsA=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/feedback_close@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pSJ2RLGXpeRHt3PQZNNPIUn2bu5xk8qjt7YUorDSHoM=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/feedback_image@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gCgLy3YsvL/dFHVZ24lXJdt/jje+Rj1RnJfmbwaqusM=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/guide_icon_SwipeIcon@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gLNzqUeJAyzHMEqOdLfMc2aDMtMyYdvTdMv2kKrmqBo=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/guide_icon_Swipefinger@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MyyH+gkRNBKwgRF6NRkEsWEJ8rXvRH4ogsMZblLQxu8=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/guide_icon_finger@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oWqge0WvuDP6HaDlBICIoOWhbnJ1z2eaxzCkYjj2NH4=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/guide_icon_slider@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0u3ikT69ksEcydkwFgJ52OuxZ8xZKUBeZIubn/Z02k4=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/icon_close.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			25Z1sZ2wjG/nHCogQTo85UoXPu4oMaTFL1d6iA+xHTg=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/icon_loading.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vcOv6+UNVX8MXjd1pkjdZUxCy8Q6laOGN730xrnJXK0=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/icon_refresh.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			isSYYXF3GK/mHfWBtHQVxHnr13AmTc3tvaY4hx7eg7c=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/icon_webview_close@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cLAT4mfE0M1Hn6letzVZZgKr+FKbNls57fjIkwCKf4M=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/icon_webview_close_normal@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7DTxamxuHH4HrxeBjnQPrxg4YaUIvy6ew7k9pY6O+eA=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/icon_webview_goback@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5hcwUQyMVI69DVjP8Kf+6lSxf9puhiO54/H1Ta6MU3c=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/icon_webview_goback_normal@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			j2vKdP3n4yUHUb2evqgvJAzDLeCyboOvI9Ymy6hsgX8=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/invalid_close_icon@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JbBHAuaKx3KBOw3qsqMwOAg/Mf96VuNDxZXMCRoSxgc=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/native_banner_close@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			J1sd8tMC7W2aahhhWMwpcl7oqazNysQP74oevbX+1Ic=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/native_splash_semi_star@3x .png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pvhLcuF4AFUCOHaPZxkM5gt+yIWL0BLovnhWfnpFkg8=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/native_splash_share_tips@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			K2iixEAVkzxNEz4fCbUW3SrgrGXzL/00FtmwHGQrTs4=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/native_splash_share_tips_arrows@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EswcRQZ613txkcgYh8WK/vLSwjL2QOy+n4EbyhY9MF4=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/native_splash_star_off@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DOeHO8xJ9633sjESbdhqM8NrzqvYFwXhL2Mv5OhdRoU=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/native_splash_star_on@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IArWtaYeQ/Uz314JM+Nl7qTpDDnQRvpLVqF+RESl3dI=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_redPacket_bottom_bg.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eDlsJPzNS6CILzRnPfmww74kcKBKfFtV//fDWSjb+48=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_redPacket_cn_open.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cEJFS9QJuaYu5Qsi383cbSMxULTtrJwzCFTqrLSGVCU=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_redPacket_detail_bg.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2C9gFmIoC/Z6vgB5n0ew97Cky7yu0D60ngCLx+xHKik=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_redPacket_detail_next.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KD3/u7S5xkSn2bvuilGIN4io0vvrDBCIuLhptYm9bmk=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_redPacket_en_open.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DYF4nBPsSl+95KH+uarwDUHX9yAobHFJYrxfhPq/gdo=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_redPacket_img1.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TaTbzjolfOaX1jF3NMFIBGMR3Actjj91+qBdXvk3g24=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_redPacket_img2.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+sutRyBER0iFe3XdISAVpU1+Ib1FqAGigRlJNvcriXg=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_redPacket_img3.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dBsE24T6UU+CQ7Q9afyVuLh4V3ArB91WYkx9UIDRdVY=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_redPacket_img4.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bz2w74nJ1NbLTbnbW8pT+n5hDrhZzBPhfaZD+bnkElI=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_redPacket_img5.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IR3LSwiEVglrfccwxzZsTr9L3BKDrRtQmRJROY9gmO0=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_redPacket_img6.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Tos4pU1Y9lPm0+1Kn9sFDRW5nJuMVoK9q2HrtsGRFgg=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_reward_icon.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1YNJxtcvqMbt5QJl6B5+z6cYSrpwmdqOmpT9qlEeBXA=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_rock_image.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GKxwMmv2MfldKKUaZISO8BMTqXVxfbg+RH/jNtDRTTQ=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_rv_reward_gift@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			zFMXKjArRgyb1tegRN7Q6hMeMMzffywwsCWn+5XtKyc=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_rv_rewarded@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			a2acly00wb1dlj1IoRg6IDNTelQkas3ulbn+aGgHPTo=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_video_close.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pU8BL24em9yC/1YW8wRCh7tk+Y9VKuOeb5wu77sGSoU=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_video_pause@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5nMO5N8HEcSreWDZIOXAIMI+dM58JabzO1FdNGt63Qw=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_video_playfail@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yaDk9412S8wYGRWvgzXtI1chS4L74dkye0pbxlvDpTs=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_video_replay@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rkXxCQW+Eubv47V0t851yKap444ZluQE/yQ9eWnKjfE=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_voice_muted.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GDfZZNzlSdp2AnYCsILNgiYFzxy5QGg18ZX6eCC0zpY=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_voice_unmuted.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PEKZpZT7/tCMHXAoU6qNc22+eyoYfEKOdjbVk0TkREM=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/rv_webview_arrows@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+8y4HGUkHtEJY0WJ8jxqqe8M8B1jv3UDEPJ6hZvYO9c=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/splash_cta_btn_bg.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			z7V04MEfGgtrseGlKVhaDoNc9x8XW2WB6G12Q9O7c/s=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/zh-Hans.lproj/ATOfferFeedBackView.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CYlq9UU83sKBMZGNsTC4uTwWHyK8MfCGFkK0NGBrvI0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>CSJAdSDK.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2xbuWv4Ve2SuCADWRXcCF/eA/3azUJR/wwTe/RABVfE=
+			q8Pj0cXZqKbZVwiMytiPniePiYeCpKanIMHVddAQMg0=
 			</data>
 		</dict>
 		<key>CSJAdSDK.bundle/PrivacyInfo.xcprivacy</key>
@@ -2863,7 +2115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hPyL6j0Cz/eXV1Ll0SQ0kPARrFVl4T/9H5vDK/n2L84=
+			ippSjjyi4XYUqpESMyByHzzoyJiS5wvdoeRp+Khhw+w=
 			</data>
 		</dict>
 		<key>CSJAdSDK.bundle/zh-Hans.lproj/BULanguage.strings</key>
@@ -3010,11 +2262,39 @@
 			UaLzujaLkhUIxKn6Un6t84pMcwL0CIPvPx10CLTvBDE=
 			</data>
 		</dict>
+		<key>MSAdSDK.bundle/icon_defalt.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iloiN886/+TirtSBQBKWZFfRO+EnYt2JXsOr3DSBVVs=
+			</data>
+		</dict>
+		<key>MSAdSDK.bundle/ms_actionButton.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lgburCiU05nlfasPVUvimh9pwL0XgrGu+U46aR2rVjA=
+			</data>
+		</dict>
+		<key>MSAdSDK.bundle/ms_ad.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jp/aKMe7MB61F/5scKF7giZam+iIn19ORJTLZiU9h+k=
+			</data>
+		</dict>
 		<key>MSAdSDK.bundle/ms_ad@2x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			a+zOJkpy56Sc/1JoOt9X+HOf59sKiOU2jinGPOoAV18=
+			</data>
+		</dict>
+		<key>MSAdSDK.bundle/ms_ad_rock.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			W2d+WWuopyl4OWk5S9hi0SIhIxmKvbZ7jA93AxOOG+Y=
 			</data>
 		</dict>
 		<key>MSAdSDK.bundle/ms_back@3x.png</key>
@@ -3064,6 +2344,20 @@
 			<key>hash2</key>
 			<data>
 			0rA266Es9v+QQH51i+SrkUOKZm1czUXoUAum7RIpsIs=
+			</data>
+		</dict>
+		<key>MSAdSDK.bundle/net_ad@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9W0Gx//Cp4IOTaO+P9ZwYlUpr+eeFRlMPaNA75EZ2nM=
+			</data>
+		</dict>
+		<key>MSAdSDK.bundle/newTempRock.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aN6NLqM6QqZV8ozrcTzRS8q/FaNyI8Wko4HW+uxFeSI=
 			</data>
 		</dict>
 		<key>MSAdSDK.bundle/rockBtn.png</key>
@@ -3140,7 +2434,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bWZB6yPdoaYLPfOyPS7bOAFt58C25wlc0b+Hf6LAuGY=
+			uHk5zkCosToQt/SQgNpAy9NSgds4Aa2wfGn9zv2oGZg=
 			</data>
 		</dict>
 		<key>OctAdSDK.bundle/PrivacyInfo.xcprivacy</key>
@@ -3189,7 +2483,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5qr5ObH7N24brAZAeZSDfcFlG9peNougTBp+ign6r9Q=
+			35N7G8PwVhS8oakZd1yXDytdWRLAsBhxVbbHXGv+kLo=
 			</data>
 		</dict>
 		<key>OctCore.bundle/_CodeSignature/CodeDirectory</key>
@@ -3225,6 +2519,13 @@
 			<key>hash2</key>
 			<data>
 			EpfkRxzQOjwUmrzfM9rIKm4ZqcdA4WLFSA+YaFAfhYk=
+			</data>
+		</dict>
+		<key>OctCore.bundle/baidu_pan.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			U0YTD/EHl23chB479zVCmLosshTii60dx6nmjyg2aHU=
 			</data>
 		</dict>
 		<key>OctCore.bundle/icon_alert_click.png</key>
@@ -3280,7 +2581,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aPGTYQgn/Btf3P4ELr+bycSVAkk1FhYkXXJTFaAKPLs=
+			B00CMW9+u1G5MTTpfkaECe9vXYIlTQYyhlo4ymBzPCM=
 			</data>
 		</dict>
 		<key>OctCore.bundle/remdad.png</key>
@@ -3301,21 +2602,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bfM2PEke4xn5wnenlZRfpfW5ql9MBmzv3tYnAUJmgJU=
+			C65y8MiYXdeVtXfOfwbP8j31gw/Fc+yfR5Bs1Vyx+II=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/arrow_three.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lzjjxOH5jCBRqQ/17WjXrzwj05iB7PHOG0ufhPI1FIU=
+			SUfu6tuCeuk1PZ9Xot3LsfOZsvTqDQCVSKne/LMrT8c=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/arrow_two.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XHIFdjNsIkN9YO45m/qTRl6Ty1umoRMbmEPSHqcZT1o=
+			EZJAkJM0X+1iQkgccSawm8LAc2ergY3/26Tu5pFR+Bs=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/bottom_black_gradient@2x.png</key>
@@ -3329,7 +2630,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9vY2+XxRXpdw6E872v37SiRNrzFNpTIy6vu1BA0Lg8c=
+			RNyWg1N/OprbzRAymr9ikQjOpU+bW+3sqSyyosKW4k0=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/endcard_skip_icon.png</key>
@@ -3392,7 +2693,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0u3ikT69ksEcydkwFgJ52OuxZ8xZKUBeZIubn/Z02k4=
+			ldm0cUugx+mxzf595eTDRuSZ3ZfIkgaGeuXJQbmwbF0=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/icon_close.png</key>
@@ -3497,7 +2798,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eDlsJPzNS6CILzRnPfmww74kcKBKfFtV//fDWSjb+48=
+			NTCi/4QJTeUvYsTanfBtk9QGAn3ZmM3q/EbMqFIhs+M=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/offer_redPacket_cn_open.png</key>
@@ -3511,7 +2812,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2C9gFmIoC/Z6vgB5n0ew97Cky7yu0D60ngCLx+xHKik=
+			F/KXxcn7rcaND8J3fPmDvoIsuX8g6B6NKhNFdwu719g=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/offer_redPacket_detail_next.png</key>
@@ -3581,21 +2882,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GKxwMmv2MfldKKUaZISO8BMTqXVxfbg+RH/jNtDRTTQ=
+			LI3VhHLWAuQpWGhn58+QJ+ve1PHobbxMx16iCPn0Ca8=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/offer_rv_reward_gift@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zFMXKjArRgyb1tegRN7Q6hMeMMzffywwsCWn+5XtKyc=
+			R/TUyLI0lYBF/Sf2u/PVaxaNQL7ieobk+s011uwX2mk=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/offer_rv_rewarded@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a2acly00wb1dlj1IoRg6IDNTelQkas3ulbn+aGgHPTo=
+			iSHC/dz6X5jhjQiSWCAAHIzr+sRuJ0wpYigFgBZTwF4=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/offer_video_close.png</key>
@@ -3651,7 +2952,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oa7bGzIqANBahGCeuLGsjwuZFNQpZbTeKQARFaQGD9M=
+			jXvcgi24ipEkYekVNMu6G+UYxW/mVTkbVgf59dYBrN8=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/sdm_bg_rectangle@3x.png</key>
@@ -3665,14 +2966,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R9XsjMY4n5n1ooXaO1RdDYPFM/4fcND+/yOpk/8mZAU=
+			Ih1G2xpr++fmlNQ1X51Y9Ym1anOK0KfOe9zeRJzp0jk=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/sdm_chop_close@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rq2Yj9OYvooTO1AGockcV18EPGVtfSPkystFXHFTOU0=
+			aXPB97cIXs0WmsMueDdWJtkEzu0If7p6USr6tT1rysc=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/sdm_chop_sword_cn@3x.png</key>
@@ -3700,7 +3001,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w9cYjiGcPsDD3xtKOVS1VFNyLfjXhCKjno26RaJyNzU=
+			vFj6s8X5IKe29yLAVBDM3X9F/T6AXpm1b4yOk9V5ZUw=
+			</data>
+		</dict>
+		<key>SmartdigimktSDK.bundle/sdm_interaction_arrow@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3H1kJihV/Osy0TTTwoASJtIMOiivTWfZo5eSWVwUZfU=
+			</data>
+		</dict>
+		<key>SmartdigimktSDK.bundle/sdm_interaction_arrow_up@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+Lulg/U6tMxjulCQuNA8wxzFHbB9PexW+S/XyTFo8Zg=
+			</data>
+		</dict>
+		<key>SmartdigimktSDK.bundle/sdm_interaction_gesture@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gTVbLLlzU/Tg2TKaZxAtM1PaTsoAEur0H5KYwFVrrlE=
+			</data>
+		</dict>
+		<key>SmartdigimktSDK.bundle/sdm_interaction_redpackage_v2@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y9Ar3q/Jk79AarNMXU3LB5NENh3vA8QWboB17zaZZlU=
+			</data>
+		</dict>
+		<key>SmartdigimktSDK.bundle/sdm_interaction_twist_icon@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LIC/OZJCJeyRq7P9gecn/hXwilawATRuiB0gLH8oyiQ=
+			</data>
+		</dict>
+		<key>SmartdigimktSDK.bundle/sdm_interaction_twist_left_arrow@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Dld+8b3FsFUHulJzajVP3zalHqncT9v4opojgPT2H/4=
+			</data>
+		</dict>
+		<key>SmartdigimktSDK.bundle/sdm_interaction_twist_right_arrow@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DRpOiSUnwEMrmta61sWIHNd1FFd9+chYquD5oCDUh0k=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/sdm_loading_ctr@3x.png</key>
@@ -3714,21 +3064,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vCKZUI54XyrPjsx6stkFto5kxHd+9kQjM1L6MJXSLGM=
+			J/CnniZKGPxhre4yaTDiKQjmjpgNSfOo3k5FxhQnLnI=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/sdm_luckybag_outline@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dabhxq6KTY+fCp8UUyiKwmu/sZXpJgEDYwS4j+Xq+do=
+			FYr3Xx1MQ236WcFDLBYIqNabS2e0AbXLMAOLFt7XRLo=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/sdm_luckybag_spread@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZDcUHHcgW5+HGnt/JaTKgo2vOSF+tLupTFyQWqi9Wzg=
+			5WbExyMP64flC9Zqy+3ZwtxlFGIJeq7YCtEgtn6zku0=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/sdm_mintegral_logo@3x.png</key>
@@ -3742,7 +3092,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8wHTl7Wt2JsN6XaPtceKWSDd5CY7vuNY/3LEL8c9gog=
+			UIZrdhmeUF6Nq3GhAjMs47rKCviHWLFOtXYFpiVs/us=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/sdm_native_banner_ad_logo.png</key>
@@ -3756,35 +3106,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D4GO2JJdQVYdrdnlxgObRLoPHL6RDkfFiRmxEQZOGiE=
+			N0cfcc1qZGfr8yzWCIH9LIf8QEChLz8KAtTsytjwaeg=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/sdm_offer_com_pop_cancel@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OFyurOIOuxhGFq1kS6Y/vsCVCAzuj3hLCuWF5lYs5YM=
+			PDeu2aRy+hWkKIwAZt7SYwt+5/bAAFOWDmrMnODtEyE=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/sdm_offer_com_vector@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QP4zYXUVNrQJqwiPmjb1XAwOixxeDUN8t01XE18Bd54=
+			qCn4yZ/vWUoMTb+JlR7PvcuNlwYc5DGdTds3OeG7RrI=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/sdm_offer_logo_cn@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vSrnTxhx4EMh3JhnsxpHzAdaHiiZoGeGxcyNzr9gL3Y=
+			ySDaErNNNgQw4k6nYH58P3oUJu1v14xkEGC7w5rwE0g=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/sdm_offer_logo_us@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gZMR3gGe/kChSn/C8frTjdY+H3/OJNsh7jGWDzeYNmA=
+			Ue7oXz1pSMMJphcAhKmg8Bj6yoFW/0qI08hRXGlDgdw=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/sdm_pangle_ad.png</key>
@@ -3792,6 +3142,20 @@
 			<key>hash2</key>
 			<data>
 			eJufpExGrl4gUzkGiUKjbVap8AYVSJciFGoPD2joiWc=
+			</data>
+		</dict>
+		<key>SmartdigimktSDK.bundle/sdm_smartdigimkt_retry@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7dye2wvDryT/27PyvOqqdtOaZSpBoXMfpLm9ZixwWwI=
+			</data>
+		</dict>
+		<key>SmartdigimktSDK.bundle/sdm_smartdigimkt_sdk_logo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			n4ee7LF1jD/yefgejnro7TfH5Nkf+sYJUmMerYFwytw=
 			</data>
 		</dict>
 		<key>SmartdigimktSDK.bundle/sdm_subtract.png</key>
@@ -3929,6 +3293,20 @@
 			meMtgMDWlOysJpet3BuVDtWNqD6DwRvZqlaG2GUzhx4=
 			</data>
 		</dict>
+		<key>baidumobadsdk.bundle/bd_feed_magnetic_sticker_middle.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4JW2ib9Wx9iB4bBy4nIqPW5ZGvk6cioHA3S3H6THzW0=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_feed_magnetic_sticker_right.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+p5TrH2WLCxDYV6kx/1OyV8kSbfL5g6hJG6DUY3sTys=
+			</data>
+		</dict>
 		<key>baidumobadsdk.bundle/bd_int_envel_slide.png</key>
 		<dict>
 			<key>hash2</key>
@@ -4062,6 +3440,13 @@
 			ItLsLPE/v8D/MoInaaakh15EGIYY9O6TTxEZjJ+zaA8=
 			</data>
 		</dict>
+		<key>baidumobadsdk.bundle/bd_mob_ad_bookmard_line.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UU5y06IerwKZiIbiSlUvlKyzeRO2Gfq/4XQB/MzDcHA=
+			</data>
+		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_ad_bqtlogo.png</key>
 		<dict>
 			<key>hash2</key>
@@ -4132,6 +3517,13 @@
 			+WqUTRcP0jacxgQv+93orP93hNeqbDc+mkizcKU3whg=
 			</data>
 		</dict>
+		<key>baidumobadsdk.bundle/bd_mob_gift_notice_bar_bg.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			r6Q8VoJoF98xwxJMQcOa2GPuzyotCgSQPbz32TRELIw=
+			</data>
+		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_replay.png</key>
 		<dict>
 			<key>hash2</key>
@@ -4144,6 +3536,13 @@
 			<key>hash2</key>
 			<data>
 			AzKu5rjXPvZqwjQeIqJhQu8m84Bvjf+p81H9atVDSd0=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_mob_tpl_discount_bg.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tu5g1y6RIw3DQe+fYcbuIglsNCjyTGVN/uXv4lbHlEg=
 			</data>
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_transparent_adlogo.png</key>
@@ -4349,6 +3748,62 @@
 			PfHjLc5nck6itUzgrsoSsFKXq+UQC/4CpV1dOA3Arms=
 			</data>
 		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_def.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/Ow+uBwo5LA5pt1egerO5SeqVlH6tUcPF153kP1cOKM=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_dm_ani_coupon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rDqcrOA6p96JO1kQpUQ7RrGv5lyOaLifos8Ms4fLilM=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_dm_ani_left.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d025YyCoDf2rpnqlecnzxzvnDwARBtmLrll11YyLXf4=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_dm_ani_right.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9XsLznZZrPo1gszTziRzghH8xrDZk488GEEAlmrnp+8=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_dm_ani_white.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xtfzXtYQbrkc4KEz5/2afH+jUUCzkQNTpUSeeqVGj/o=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_dm_coupon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lGlztc9nR7sg3zyJUA67WPqgitZoVLzMs6LsoczVAl8=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_dm_coupon_bottom.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q8+tL7KUe4KqEYvz41Hb602DN0YsFn/H3DHhD1GWu10=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_dm_coupon_top.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qSyCIM00Gc52JNyfmUZp+RxlZxS/o0ldAbs8DAQ8L5c=
+			</data>
+		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_e_commerce_bg.png</key>
 		<dict>
 			<key>hash2</key>
@@ -4370,11 +3825,32 @@
 			k/P11gzjvcT64kiHs+fJLgqjUu3gKm6X6CB8BjlnGyc=
 			</data>
 		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_enter_guide_arrow.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BPlvA/4xqyXu1lN6DlrB+USkP5LeCnAAnii0+ifLayQ=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_enter_guide_icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qrVB5/EWs30LULY8icJIW6AhzQjL1Rzo71cjseBM8WU=
+			</data>
+		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_focus.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			z7fZMwqtTOwrxy4J4edyjyI/QOW1b8Pagyfod/Xiw5g=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_gift_notice_bar.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1ibAnXlcM/1nCli2cgqcTAvdr2vdiFac9IggDkEN1is=
 			</data>
 		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_market_bg.json</key>
