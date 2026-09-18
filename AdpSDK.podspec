@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'AdpSDK'
-  s.version      = '80.1.0'
+  s.version      = '80.1.2'
   s.summary      = 'adpsdk'
   s.homepage     = 'https://ddd.com'
   s.license      = 'MIT'
